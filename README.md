@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 All of my projects are available at [www.linkedin.com/in/](www.linkedin.com/in/)
+
 
 - 📫 How to reach me **gm9044508@gmail.com**
 
