@@ -1,5 +1,6 @@
 
-![logo](https://github.com/mustafa0198/mustafa0198/blob/main/image.jpg)
+
+
 <h1 align="center">Hi 👋, I'm Ghulam Mustafa</h1>
 <h3 align="center">💙 Flutter Developer | 📱 Android & iOS |</h3>
 
